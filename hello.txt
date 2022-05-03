@@ -1,6 +1,6 @@
 Hello World! --> hot-fix
 Git!
-Hello World!
+Hello World! --> this is new change for hot-fix
 Git!
 Hello World! --> hot-fix two commit --> by master
 Git!

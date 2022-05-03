@@ -1,8 +1,8 @@
 Hello World! --> hot-fix
 Git!
-Hello World! 
+Hello World!
 Git!
-Hello World! --> master
+Hello World! --> hot-fix two commit
 Git!
 Hello World!
 Git!

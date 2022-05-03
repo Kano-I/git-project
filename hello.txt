@@ -2,9 +2,9 @@ Hello World! --> hot-fix
 Git!
 Hello World!
 Git!
-Hello World! --> hot-fix two commit
+Hello World! --> hot-fix two commit --> by master
 Git!
-Hello World!
+Hello World! --> from master by test
 Git!
 Hello World!
 Git!

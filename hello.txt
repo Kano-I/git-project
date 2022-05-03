@@ -1,6 +1,6 @@
 Hello World! --> hot-fix
 Git!
-Hello World!
+Hello World! --> master
 Git!
 Hello World!
 Git!

@@ -1,4 +1,4 @@
-Hello World! this is frist change
+Hello World! --> hot-fix
 Git!
 Hello World!
 Git!
@@ -8,28 +8,3 @@ Hello World!
 Git!
 Hello World!
 Git!
-Hello World!
-Git!
-Hello World!
-Git!
-Hello World!
-Git!
-
-Hello World!
-Git!
-Hello World!
-Git!
-Hello World!
-Git!
-Hello World!
-Git!
-Hello World!
-Git!
-Hello World!
-Git!
-Hello World!
-Git!
-Hello World!
-Git!
-
-End
